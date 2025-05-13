@@ -1,7 +1,7 @@
 ## Hi, I'm Edin 👋
-I'm currently a second-year at UCLA majoring in Cognitive Science and Statistics and Data Science as well as minoring in Data Science Engineering. Passionate about exploring the intersection between technology, data, and humans. Experience in UI/UX research & design, IT, front-end development, marketing, and AI/ML/RL.
+Second-year at UCLA majoring in Cognitive Science and Statistics and Data Science as well as minoring in Data Science Engineering.
 
-Visit my [portfolio website](http://edinle.framer.website/) to see more of what I do including UI/UX design, marketing, multi-agent reinforcement learning, and photography!
+Visit my [portfolio website](http://edinle.framer.website/) to see more of what I do!
 
 # [Github Stats](https://github.com/edinle/#-github_stats)
 
