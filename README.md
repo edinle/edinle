@@ -1,5 +1,5 @@
 ## Hi, I'm Edin 👋
-Second-year at UCLA majoring in Cognitive Science and Statistics and Data Science as well as minoring in Data Science Engineering.
+Student at UCLA majoring in Cognitive Science and minoring in Data Science Engineering.
 
 Visit my [portfolio website](http://edinle.framer.website/) to see more of what I do!
 
