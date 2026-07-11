@@ -1,7 +1,7 @@
 ## Hi, I'm Edin 👋
 Student at UCLA majoring in Cognitive Science and minoring in Data Science Engineering.
 
-Visit my [portfolio website](http://edinle.framer.website/) to see more of what I do!
+Visit my [portfolio website](http://www.edinle.me/) to see more of what I do!
 
 # [Github Stats](https://github.com/edinle/#-github_stats)
 
